@@ -1,5 +1,5 @@
-import React from 'react';
+import React from 'react'
 
-import './style.css';
+import './style.css'
 
-export const App = () => <h1 className="title">Hola como estas</h1>;
+export const App = () => <h1 className='title'>Hola como estas</h1>
