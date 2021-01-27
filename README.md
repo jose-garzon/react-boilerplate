@@ -14,7 +14,7 @@ It allows:
 
 Clone the repo:
 
-`git clone {link}`
+`git clone git@github.com:jose-garzon/react-boilerplate.git`
 
 Install dependencies:
 
