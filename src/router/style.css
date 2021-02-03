@@ -13,13 +13,3 @@ html {
 body {
   font-size: 1.6rem;
 }
-
-.container {
-  display: grid;
-  place-content: center;
-  min-height: 100vh;
-}
-
-.title {
-  color: darkblue;
-}
